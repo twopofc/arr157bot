@@ -29,31 +29,21 @@ Rec: ~Drawl Nag
 
 *╔═〘 GRUPO 〙═╗*
 ☠️${_p}add (62xxxxxxxxxx)
-☠️${_p}kick @mention
-☠️${_p}promote @mention
-☠️${_p}demote @mention
-☠️${_p}linkgrup
+☠️${_p}kick @mencionar
+☠️${_p}promote @mencionar
+☠️${_p}demote @mencionar
+☠️${_p}linkgrupo
 ☠️${_p}pengumuman <teks>
 ☠️${_p}hidetag <teks>
 ☠️${_p}listonline [groupid]
 ☠️${_p}grouplist
 
-*「 EXPERIMENTAL 」*
-✟*${_p}jadibot*
-[kode login jika ada / kosongin]
-Jangan Lupa Scan QR
-
 *「 Advanced 」*
 > return m 'javascript eval' + m.sender
 
 =======*「 INFO 」*=======
-  卍BRUXINHO MODS KARAYᬊ᭄
+  TROPA DO TELETONᬊ᭄
 =========================
-YouTube: 
-https://youtube.com/channel/UCalQOjX5BFqim6x8JyCMM-w
-
-CRIADOR:
-*Wa.me/+56945020187*
 ==================
 `.trim(), m)
 }
